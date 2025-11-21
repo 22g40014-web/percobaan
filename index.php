@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>lorem</p>
+    <p>lorem fadil</p>
+    <p>lorem fadil</p>
 </body>
 </html>
